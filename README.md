@@ -2,7 +2,7 @@
 Project Name: task2 (Game Data API)
 
 # Project Description
-The Game Data API allows you to manage game-related information, including player statistics, game results. The API is built using Node.js, Express.js, and MongoDB.
+The Game Data API allows you to manage game-related information, including player statistics, and game results. The API is built using Node.js, Express.js, and MongoDB.
 
 # Implementation 
 
@@ -25,5 +25,5 @@ This documentation provides an overview of the game data API, including CRUD ope
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-project.git
-cd your-project
+git clone https://github.com/mohdfurkan01/-Game-Data_API-
+cd task2
